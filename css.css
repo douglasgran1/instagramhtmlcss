@@ -2,6 +2,10 @@ body{
   margin: 0;
   padding: 0;
 }
+
+*{
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
 #menu{
   width: 100%;
   height: 48px;
@@ -82,4 +86,54 @@ margin-top: 14px;
 .me{
   width: 20px;
   border-radius: 500px;
+}
+
+.feed{
+width: 100%;
+height: 100%;
+
+}
+
+.perfilcompleto{
+  display: flex;
+  flex-direction: row;
+}
+
+.fotoperfil{
+width: 100%;
+height: 55px;
+border-bottom: 1px solid rgb(219, 219, 219);
+}
+
+.fotofeed{
+  width: 613px;
+  border: 1px solid rgb(219, 219, 219);
+  height: 613px;
+  margin-top: 20px;
+  margin-left: 500px;
+}
+
+.perfilfoto{
+  margin-top: 15px;
+  margin-left: 15px;
+border-radius: 500px;
+width: 30px;
+}
+
+.nomeperfil{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  margin-left: 15px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.foto{
+  width: 100%;
+  height: 100%;
+}
+
+.egirl{
+  width: 555px;
 }
