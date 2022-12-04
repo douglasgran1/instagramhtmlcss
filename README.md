@@ -1,2 +1,2 @@
-# Homepage do instagram feita com html e css
-Após fazer uma pagina de perfil e login do spotify para um trabalho da faculdade, decidi seguir a frente com um novo projeto e desta vez eu estou tentando fazer a homepage do instagram feita apenas com html e css e fazendo o mais parecido possivel com a pagina original
+# Homepage of instagram made with html and css
+After made the perfil and login page of spotify for a university homework, i decided to move foward with a new project and this time i trying to make the instagram homepage with only html and css.
